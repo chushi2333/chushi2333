@@ -12,6 +12,7 @@
 <div align="center">
   
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postgres,docker,git,linux,idea,md&perline=10" />
+<br/>
 <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css&perline=10" />
 
 </div>
