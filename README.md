@@ -10,17 +10,12 @@
 ---
 
 <div align="center">
-
-### 主要技术
-
+  
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postgres,docker,git,linux,idea,md&perline=10" />
-
-### 正在学习和实践
-
 <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css&perline=10" />
 
 </div>
 
 <div align="center">
-  <sub>持续学习，持续复盘。</sub>
+  <sub>学无止境。</sub>
 </div>
