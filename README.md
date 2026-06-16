@@ -3,10 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=28&duration=3500&pause=1200&color=444444&center=true&vCenter=true&width=600&lines=%E4%BF%9D%E6%8C%81%E5%AD%A6%E4%B9%A0%EF%BC%8C%E8%AE%A4%E7%9C%9F%E5%86%99%E4%BB%A3%E7%A0%81%3BJava+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="Typing SVG" />
   </a>
 
-  <p>
-    Java 后端学习者，正在围绕 Spring Boot、数据库、缓存和 AI 应用工程化持续积累。
-  </p>
-
   <img src="https://github-readme-stats.vercel.app/api?username=chushi2333&show_icons=true&hide_border=true&hide_title=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chushi2333&layout=compact&hide_border=true" height="160" />
 </div>
